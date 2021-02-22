@@ -10,6 +10,8 @@ namespace assignment1
         {
             Console.WriteLine("Hello World!");
 
+            Console.WriteLine("changes made");
+
             printASCII("hello", "hellp");
             printASCII(
                        "module.exports = { getPeopleData : () => { return peopleData } }",
